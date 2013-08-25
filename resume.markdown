@@ -34,7 +34,7 @@ After learning to code over 18 months and groking SaaS architecture, foundations
 * Designed and developed a Rails site using Refinery CMS for a network of design and development professionals.
 
 ####Fundraising and Strategy Consultant, March 2010 – March 2013
-I've helped social enterprise start-ups and institutions to develop communications, program and organizational strategies, and to solicit funds in support of their programs.  In this capacity I was on the team at Code for America, the nation's leading venture in the civic innovation space, from launch through year two (employee #4).  Clients included the following:
+I've helped social enterprise start-ups and institutions to develop communications, program and organizational strategies, and to solicit funds in support of their programs.  In this capacity I was on the team at Code for America, the nation's leading venture in the civic innovation space, from launch through year two (employee #5).  Clients included the following:
 
 **Hearts in Healthcare**, Jan. – March 2013
 * Developed a strategic business and communications plan for the launch of a new, international organization of healthcare leaders.
