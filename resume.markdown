@@ -40,7 +40,7 @@ I've helped social enterprise start-ups and institutions to develop communicatio
 * Developed a strategic business and communications plan for the launch of a new, international organization of healthcare leaders.
 
 **Enspiral**, Nov. – Dec. 2012
-Led an open, collaborative process to develop the brand identity and core messaging for a  social enterprise business network in New Zealand.
+* Led an open, collaborative process to develop the brand identity and core messaging for a  social enterprise business network in New Zealand.
 
 **Code for America**, July 2010 – Aug. 2012
 * Helped bring cutting edge technology and practices from tech startups into local governments to spur risk taking and innovation.  Evangelized OS software to squeeze waste from the government IT sector.
