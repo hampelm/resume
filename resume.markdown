@@ -21,7 +21,7 @@ A diversely-talented professional who has launched start-ups and grown instituti
 
 ### Experience
 
-#####Web Engineer, Jan. 2013 – Present
+####Web Engineer, Jan. 2013 – Present
 After learning to code over 18 months and groking SaaS architecture, foundations of CS, design patterns, refactorings and dev ops, I've been building Rails apps professionally since January.
 
 **Know Think Act** 
@@ -33,7 +33,7 @@ After learning to code over 18 months and groking SaaS architecture, foundations
 **Enspiral US**
 * Designed and developed a Rails site using Refinery CMS for a network of design and development professionals.
 
-#####Fundraising and Strategy Consultant, March 2010 – March 2013
+####Fundraising and Strategy Consultant, March 2010 – March 2013
 I've helped social enterprise start-ups and institutions to develop communications, program and organizational strategies, and to solicit funds in support of their programs.  In this capacity I was on the team at Code for America, the nation's leading venture in the civic innovation space, from launch through year two (employee #4).  Clients included the following:
 
 **Hearts in Healthcare**, Jan. – March 2013
@@ -51,20 +51,20 @@ Led an open, collaborative process to develop the brand identity and core messag
 **10K Maths**, May – June 2012
 * Developed a fundraising plan and advised on organizational strategy, including corporate form and business development, for a start-up building an online math program for underserved kids.
 
-#####Democracy Program Director, Feb. 2008 – Feb. 2010
+####Democracy Program Director, Feb. 2008 – Feb. 2010
 Progressive States Network
 * Created and continuously developed PSN's program for election and government reform. Promoted these issues to state legislators as central components of a comprehensive progressive agenda. Supported efforts to pass model policies into law at the state level across the country. 
 
-#####Criminal Justice Policy Analyst, July 2005 – Aug. 2007
+####Criminal Justice Policy Analyst, July 2005 – Aug. 2007
 New York Civil Liberties Union (NYCLU)
 * Analyzed and drafted reports on the public policies and administration of the City and State of New York, with a focus on policing and corrections.
 * Co-authored an extensive analysis of the failure of citizen review of police in NYC.
 
-#####Interim Executive Director, Capital Region Chapter, July – Nov. 2002
+####Interim Executive Director, Capital Region Chapter, July – Nov. 2002
 NYCLU
 * Responsible for all aspects of running a local (8 county region), semi-autonomous chapter of a statewide non-profit.
 
-#####Legislative Associate, Dec. 2000 – July 2005
+####Legislative Associate, Dec. 2000 – July 2005
 NYCLU
 * One of three advocates who made the first legislative lobby visits in the ultimately successful fight for same-sex marriage in NYS.
 * Lead lobbyist for a coalition of national good government groups that achieved fundamental voting protections and reforms prompted by the 2000 presidential election fiasco in Florida.
@@ -72,11 +72,11 @@ NYCLU
 
 ### Education
 
-#####Reed College, 1993 – 1994 & 1998 – 1999
+####Reed College, 1993 – 1994 & 1998 – 1999
 Portland, Oregon
 Cross-majored in Biology and Philosophy.
 Activities: Radio station manager and managing editor of student newspaper.
 
-#####MOOCs
+####MOOCs
 Berkley University
 SaaS Architecture - 2012 (certificate received)
