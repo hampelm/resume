@@ -73,10 +73,10 @@ NYCLU
 ### Education
 
 ####Reed College, 1993 – 1994 & 1998 – 1999
-Portland, Oregon
-Cross-majored in Biology and Philosophy.
+Portland, Oregon -
+Cross-majored in Biology and Philosophy. -
 Activities: Radio station manager and managing editor of student newspaper.
 
 ####MOOCs
-Berkley University
+Berkley University -
 SaaS Architecture - 2012 (certificate received)
