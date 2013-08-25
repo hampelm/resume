@@ -28,7 +28,7 @@ After learning to code over 18 months and groking SaaS architecture, foundations
 * Worked on a team of two developing the backend of a full-featured online giving site for international development projects.  Responsible for implementing payments processing (REST) and recurring billing (SOAP), in addition to general CRUD build out. [www.knowthinkact.com]
 
 **reVoter**
-* Prototyped an API-driven web app that provides alternative tallies for US Senate votes based on population. [github.com/awesomizer/revoter & www.revoter.us]
+* Prototyped an API-driven web app that provides alternative tallies for US Senate votes based on population. [www.github.com/awesomizer/revoter & www.revoter.us]
 
 **Enspiral US**
 * Designed and developed a Rails site using Refinery CMS for a network of design and development professionals.
